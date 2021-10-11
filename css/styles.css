@@ -1,4 +1,7 @@
-.picture {
-    width: 20px;
+body {
+    background-color: brown;
+}
+.image-resize {
+    width: 300px;
     height: auto;
 }
